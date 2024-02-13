@@ -1,0 +1,28 @@
+@media screen and (min-width:1120px) {
+
+    .header__li-ul_flex{
+        display:flex;
+        align-items: center;
+    }
+    .header__li-ul_flex-span{
+        width:135px;
+    }
+    .header__li-ul_flex-span{
+        display:block;
+    }
+    .main__menu-ul{
+        overflow-x: hidden;
+    }
+
+    .main__section-div_1:nth-child(1){
+        min-width:490px;
+    }
+    .main__section-p_xs{
+        display:inline;
+    }
+    .main__section-div_img{
+        width:100%;
+        height:auto;
+    }
+    
+}
